@@ -1,2 +1,2 @@
-# Encrypted-text-communicator-Diffie-Hellman-protocol-
-This is a simple end-2-end encryption communicator using AES.
+# Encrypted-text-communicator
+This is a simple end-2-end encrypted communicator using AES and Diffie - Hellman protocol.
